@@ -1,6 +1,3 @@
-Datasheet · MD
-Copy
-
 # Dataset Datasheet | High-Frequency Options Data Capstone Project
  
  
@@ -28,7 +25,7 @@ The dataset enables analysis of minute-level options activity across multiple ex
  
 **Who created the dataset and who funded it?**
  
-The dataset was provided as part of the High-Frequency Options Data Capstone Project on the Quantra platform, operated by QuantInsti — an algorithmic and quantitative trading education provider. The raw CSV files contain real 1-minute interval options data for the SPX index and were supplied as course materials, accessible via the Quantra learner dashboard at [quantra.quantinsti.com](https://quantra.quantinsti.com). No external funding or third-party data vendor is disclosed by the course, and the dataset is provided exclusively for educational use within this programme.
+The dataset was provided as part of the **Database Management for Trading: Basic** course — Section 20 (Capstone Project) — within the **Algo Trading for Beginners** learning track on the Quantra platform, operated by QuantInsti. The raw CSV files contain real 1-minute interval options data for the SPX index and were supplied as course materials, accessible via the Quantra learner dashboard at [quantra.quantinsti.com](https://quantra.quantinsti.com). No external funding or third-party data vendor is disclosed by the course, and the dataset is provided exclusively for educational use within this programme.
  
 ---
  
@@ -186,7 +183,7 @@ The dataset is available to enrolled students on the Quantra platform for the du
  
 **What are the terms of use?**
  
-The dataset was provided as part of a capstone project course on the Quantra platform by QuantInsti. Use is limited to educational and assessment purposes within this programme. The data should not be redistributed, published, or used for commercial purposes. Any derived work should acknowledge Quantra by QuantInsti as the source of the course materials. The raw CSV files should not be committed to public repositories; a `.gitignore` entry is recommended.
+The dataset was provided as part of the **Database Management for Trading: Basic** course within the **Algo Trading for Beginners** learning track on the Quantra platform by QuantInsti. Use is limited to educational and assessment purposes within this programme. The data should not be redistributed, published, or used for commercial purposes. Any derived work should acknowledge Quantra by QuantInsti as the source of the course materials. The raw CSV files should not be committed to public repositories; a `.gitignore` entry is recommended.
  
 ---
  
